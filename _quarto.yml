@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Melody"
+  title: "SHANG, Mengyao (尚孟尧)"
   navbar:
     left:
       - href: index.qmd
