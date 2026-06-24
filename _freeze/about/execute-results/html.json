@@ -1,8 +1,8 @@
 {
-  "hash": "c5fc95ae260bf76e0c325e272d1ef5fc",
+  "hash": "e77d2f3f1e41a0ed21a7667d4997d8be",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"About\"\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nI am melody\n",
+    "markdown": "---\ntitle: \"About\"\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nI am melody. I am a PhD student.\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
