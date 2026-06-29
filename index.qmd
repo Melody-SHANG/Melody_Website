@@ -1,8 +1,10 @@
 ---
-title: "SHANG Mengyao, Melody"
+title: "About SHANG Mengyao, Melody"
 ---
 
-I am a third year Postdoc working at Chinese University of Hong Kong.
+I am a third year Postdoctorak fellow at the [Department of Linguistics and Modern Languages](https://ling.cuhk.edu.hk/) and a member of the [Childhood Bilingualism Research Centre (CBRC](http://cbrchk.org/)) at the Chinese University of Hong Kong (CUHK). I am supervised by Professor [MAI Ziyin](https://maiziyin.com/).
+
+I studied English and linguistics at Soochow University (BA) and Chinese University of Hong Kong (MA, PhD). I was supervised by Professor [Virginia YIP](http://vyip.cbrchk.org/) as a PhD student.
 
 My research focuses on child language acquisition through several approaches: (1) analyzing naturalistic speech of children and their interlocutors to identify learning trajectories of target linguistic structures (e.g., verb compounds, noun-modifying clauses, conditionals); (2) designing behavioral experiments to test comprehension, production, and narrative skills in children; and (3) tracking the language development of multilingual children using standardized tools (e.g., Peabody Picture Vocabulary Test, Wechsler Preschool and Primary Scale of Intelligence, Multilingual Assessment Instrument for Narratives). I have studied language acquisition in monolingual contexts (e.g., acquiring Chinese in Northern China), multilingual contexts (e.g., acquiring Chinese as one of the majority languages in Hong Kong), and heritage language contexts (e.g., acquiring Chinese as a minority language in the UK or US). These experiences have given me the versatility to address various practical problems across diverse research topics and methodologies.
 

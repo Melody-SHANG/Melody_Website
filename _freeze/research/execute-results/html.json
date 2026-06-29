@@ -1,8 +1,8 @@
 {
-  "hash": "2e68864b21921f15a541ad0e05f20668",
+  "hash": "48e9ef74657a92ba5faa697e84b7c51e",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Research\"\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nI am melody. I am a PhD student.\n",
+    "markdown": "---\ntitle: \"Research\"\n---\n\n**Journal articles**\n\n**Shang, M.**, Sun, X., Mai, Z. (under review) Development of counterfactual reasoning in Mandarin-speaking preschoolers: cognitive and linguistics factors.\n\n**Shang, M.**, Mai, Z., Matthews, S., & Yip, V. (in press) Noun-modifying clause construction in Mandarin-speaking children. *Journal of Child Language*.\n\n**Shang, M.**, Zhao, L., Yip, V. & Mai, Z. (2025, published online March 2024). Protracted development in the heritage lexicon: resultative verb compounds in school-age heritage Chinese children and their input. *Linguistic Approaches to Bilingualism.* 15 (3), 342-369. <https://doi.org/10.1075/lab.23001.sha>.\n\n**Conference proceedings**\n\n**Shang, M.**, Zhang, J., Cao, Y., & Mai, Z. (Accepted). A network analysis of maternal input through preschooler-oriented storytelling. *Proceedings of the Annual Meeting of the Chicago Linguistic Society*, *62*, USA.\n\n**Corpus**\n\nMai, Z., **Shang, M.**, Liu, J., & Yip, V., CHILDES Mandarin-English HKMECC Corpus, <https://talkbank.org/childes/access/Biling/HKMECC.html>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

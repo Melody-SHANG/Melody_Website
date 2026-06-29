@@ -1,5 +1,22 @@
 ---
-title: "talk"
+title: "Talk and presentations"
 format: html
 ---
 
+**Invited talks**
+
+**Conference presentations**
+
+**Shang, M.**, Zhang, J., Cao, Y., & Mai, Z. (2026). A network analysis of maternal input through preschooler-oriented storytelling \[Talk\]. *The* *62nd Annual Meeting of the Chicago Linguistic Society (CLS62)*, 17-19 April 2026, Chicago, IL, United States.
+
+**Shang, M.**, Mai, Z., Matthews, S., & Yip, V. (2025). A developmental hierarchy of noun-modifying clause construction in Mandarin: First corpus and experimental evidence \[Poster\]. *The 50th Annual Boston University Conference on Language Development (BUCLD50)*, 6-9 November 2025, Boston, MA, United States.
+
+**Shang, M.**, Vermeer, E. Y., Mai, Z., Matthews, S., & Yip, V. (2025). English gapless relative clauses in Mandarin-English bilingual children \[Poster\]. *The 15th International Symposium on Bilingualism (ISB15)*, June 9-13, 2025, Donostia-San Sebastián, Spain.
+
+**Shang, M.**, Mai, Z., Matthews, S. & Yip, V. (2024). Noun-Modifying Clause Constructions in Mandarin-English bilingual children across contexts \[Talk\]. Paper presented at the Symposium “Developing Chinese as a first language in US, Hong Kong and Beijing” (Convenor: Ziyin Mai) at *the XVIth International Congress for the Study of Child Language (IASCL-2024)*, July 15-19, Charles University, Prague, Czech Republic.
+
+**Shang, M.**, Mai, Z., Matthews, S. & Yip, V. (2023). Mandarin noun-modifying clause constructions in Mandarin-English bilingual preschool children \[Talk\]. *The 14th International Symposium on Bilingualism (ISB14)*, 26-30 June, Macquarie University, Sydney, Australia.
+
+**Shang, M.**, Mai, Z., & Yip, V. (2022). Resultative Verb Compounds in School-age Heritage Mandarin Children \[Talk\], *Fourth International Conference on Heritage/Community Languages*, 16-17 June. Los Angeles, USA
+
+**Shang, M.**, Mai, Z., Matthews, S., & Yip, V. (2021). Acquisition of noun-modifying clause constructions in monolingual and heritage Mandarin-speaking children \[Talk\]. *The 13th International Symposium on Bilingualism (ISB-13)*, Warsaw, Poland, 10-14 July.

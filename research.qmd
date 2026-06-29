@@ -2,10 +2,22 @@
 title: "Research"
 ---
 
-About this site
+**Journal articles**
+
+**Shang, M.**, Sun, X., Mai, Z. (under review) Development of counterfactual reasoning in Mandarin-speaking preschoolers: cognitive and linguistics factors.
+
+**Shang, M.**, Mai, Z., Matthews, S., & Yip, V. (in press) Noun-modifying clause construction in Mandarin-speaking children. *Journal of Child Language*.
+
+**Shang, M.**, Zhao, L., Yip, V. & Mai, Z. (2025, published online March 2024). Protracted development in the heritage lexicon: resultative verb compounds in school-age heritage Chinese children and their input. *Linguistic Approaches to Bilingualism.* 15 (3), 342-369. <https://doi.org/10.1075/lab.23001.sha>.
+
+**Conference proceedings**
+
+**Shang, M.**, Zhang, J., Cao, Y., & Mai, Z. (Accepted). A network analysis of maternal input through preschooler-oriented storytelling. *Proceedings of the Annual Meeting of the Chicago Linguistic Society*, *62*, USA.
+
+**Corpus**
+
+Mai, Z., **Shang, M.**, Liu, J., & Yip, V., CHILDES Mandarin-English HKMECC Corpus, <https://talkbank.org/childes/access/Biling/HKMECC.html>.
 
 ```{r}
 1 + 1
 ```
-
-I am melody. I am a PhD student.
