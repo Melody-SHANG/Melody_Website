@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research Output"
 ---
 
 **Journal articles**
@@ -19,5 +19,5 @@ title: "Research"
 Mai, Z., **Shang, M.**, Liu, J., & Yip, V., CHILDES Mandarin-English HKMECC Corpus, <https://talkbank.org/childes/access/Biling/HKMECC.html>.
 
 ```{r}
-1 + 1
+
 ```

@@ -5,19 +5,31 @@ project:
 website:
   title: "SHANG, Mengyao (尚孟尧)"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: About
       - href: research.qmd
         text: Research
       - href: talk.qmd
-        text: Talk
+        text: Talks
+      - text: "More"
+        menu:
+        - text: ORCID
+          href: https://orcid.org/0000-0002-4498-0536
+        - text: GitHub
+          href: https://github.com/Melody-SHANG
+  back-to-top-navigation: true
+  page-footer: 
+    right: "Copyright 2026, Mengyao SHANG"
+    background: light
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - minty
+      - united
     css: styles.css
     toc: true
 

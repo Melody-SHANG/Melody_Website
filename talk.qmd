@@ -1,6 +1,5 @@
 ---
 title: "Talk and presentations"
-format: html
 ---
 
 **Invited talks**
