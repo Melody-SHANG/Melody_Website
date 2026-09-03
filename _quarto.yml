@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "SHANG, Mengyao (尚孟尧)"
+  title: "SHANG Mengyao, Melody (尚孟尧)"
   navbar:
     background: primary
     search: true
@@ -11,9 +11,9 @@ website:
       - href: index.qmd
         text: About
       - href: research.qmd
-        text: Research
+        text: Research output
       - href: talk.qmd
-        text: Talks
+        text: Talks and presentations
       - text: "More"
         menu:
         - text: ORCID
